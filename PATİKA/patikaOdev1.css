@@ -1,0 +1,21 @@
+body{
+    background-color: #e8effd;
+}
+h1{
+    text-align: center;
+    color: navy;
+}
+img{
+    width: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+div{
+    text-align: center;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: red;
+}
